@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "id": "english-communication",
+  "title": "English Communication",
+  "description": "Build clear, natural spoken English for everyday conversations and professional life. Learn at your own pace, one practical lesson at a time.",
+  "sections": [
+    {
+      "id": "day-1",
+      "title": "Day 1",
+      "lessonIds": [
+        "lesson-1-1",
+        "lesson-1-2",
+        "lesson-1-3",
+        "lesson-1-4"
+      ]
+    },
+    {
+      "id": "day-2",
+      "title": "Day 2",
+      "lessonIds": [
+        "lesson-2-1",
+        "lesson-2-2",
+        "lesson-2-3",
+        "lesson-2-4",
+        "lesson-2-5",
+        "lesson-2-6",
+        "lesson-2-7",
+        "lesson-2-8",
+        "lesson-2-9",
+        "lesson-2-10",
+        "lesson-2-11",
+        "lesson-2-12"
+      ]
+    },
+    {
+      "id": "day-3",
+      "title": "Day 3",
+      "lessonIds": [
+        "lesson-3-1",
+        "lesson-3-2",
+        "lesson-3-3"
+      ]
+    },
+    {
+      "id": "day-4",
+      "title": "Day 4",
+      "lessonIds": [
+        "lesson-4-1",
+        "lesson-4-2",
+        "lesson-4-3",
+        "lesson-4-4"
+      ]
+    },
+    {
+      "id": "day-5",
+      "title": "Day 5",
+      "lessonIds": [
+        "lesson-5-1",
+        "lesson-5-2",
+        "lesson-5-3",
+        "lesson-5-4"
+      ]
+    },
+    {
+      "id": "day-6",
+      "title": "Day 6",
+      "lessonIds": [
+        "lesson-6-1",
+        "lesson-6-2",
+        "lesson-6-3",
+        "lesson-6-4",
+        "lesson-6-5"
+      ]
+    },
+    {
+      "id": "day-7",
+      "title": "Day 7",
+      "lessonIds": [
+        "lesson-7-1",
+        "lesson-7-2",
+        "lesson-7-3",
+        "lesson-7-4"
+      ]
+    },
+    {
+      "id": "day-8",
+      "title": "Day 8",
+      "lessonIds": [
+        "lesson-8-1",
+        "lesson-8-2",
+        "lesson-8-3",
+        "lesson-8-4"
+      ]
+    },
+    {
+      "id": "day-9",
+      "title": "Day 9",
+      "lessonIds": [
+        "lesson-9-1",
+        "lesson-9-2",
+        "lesson-9-3",
+        "lesson-9-4"
+      ]
+    },
+    {
+      "id": "day-10",
+      "title": "Day 10",
+      "lessonIds": [
+        "lesson-10-1",
+        "lesson-10-2",
+        "lesson-10-3"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-1-1",
+      "title": "Subject + Verb + Object — Building Automatic Sentences",
+      "src": "/courses/english-communication/lessons/lesson_1_1.md"
+    },
+    {
+      "id": "lesson-1-2",
+      "title": "Subject-Verb Agreement — Fixing Common Plural/Singular Verbal Errors",
+      "src": "/courses/english-communication/lessons/lesson_1_2.md"
+    },
+    {
+      "id": "lesson-1-3",
+      "title": "Pronouns in Action – Subject, Object & Relative",
+      "src": "/courses/english-communication/lessons/lesson_1_3.md"
+    },
+    {
+      "id": "lesson-1-4",
+      "title": "Modals of Politeness & Ability — Can, Could, Would, Should, May",
+      "src": "/courses/english-communication/lessons/lesson_1_4.md"
+    },
+    {
+      "id": "lesson-2-1",
+      "title": "Present Simple — Habits, Facts & General Truths",
+      "src": "/courses/english-communication/lessons/lesson_2_1.md"
+    },
+    {
+      "id": "lesson-2-2",
+      "title": "Present Continuous – Real-Time Action & Temporary States",
+      "src": "/courses/english-communication/lessons/lesson_2_2.md"
+    },
+    {
+      "id": "lesson-2-3",
+      "title": "Present Perfect – Connecting Past Actions to Right Now",
+      "src": "/courses/english-communication/lessons/lesson_2_3.md"
+    },
+    {
+      "id": "lesson-2-4",
+      "title": "Present Perfect Continuous — Emphasizing Duration of Ongoing Actions",
+      "src": "/courses/english-communication/lessons/lesson_2_4.md"
+    },
+    {
+      "id": "lesson-2-5",
+      "title": "Past Simple – Narrating Completed Actions Clearly",
+      "src": "/courses/english-communication/lessons/lesson_2_5.md"
+    },
+    {
+      "id": "lesson-2-6",
+      "title": "Past Continuous: Setting Background Context in Past Stories",
+      "src": "/courses/english-communication/lessons/lesson_2_6.md"
+    },
+    {
+      "id": "lesson-2-7",
+      "title": "Past Perfect – Sequencing Past Events Clearly",
+      "src": "/courses/english-communication/lessons/lesson_2_7.md"
+    },
+    {
+      "id": "lesson-2-8",
+      "title": "Past Perfect Continuous – Explaining Ongoing Past Actions Before Another Event",
+      "src": "/courses/english-communication/lessons/lesson_2_8.md"
+    },
+    {
+      "id": "lesson-2-9",
+      "title": "Future Simple (Will / Going to)",
+      "src": "/courses/english-communication/lessons/lesson_2_9.md"
+    },
+    {
+      "id": "lesson-2-10",
+      "title": "Future Continuous – Actions in Progress at a Specific Future Time",
+      "src": "/courses/english-communication/lessons/lesson_2_10.md"
+    },
+    {
+      "id": "lesson-2-11",
+      "title": "Future Perfect — Actions Completed By a Specific Time",
+      "src": "/courses/english-communication/lessons/lesson_2_11.md"
+    },
+    {
+      "id": "lesson-2-12",
+      "title": "Future Perfect Continuous – Continuous Duration Up to a Future Point",
+      "src": "/courses/english-communication/lessons/lesson_2_12.md"
+    },
+    {
+      "id": "lesson-3-1",
+      "title": "Essential Prepositions of Time and Place (In, On, At, To, For)",
+      "src": "/courses/english-communication/lessons/lesson_3_1.md"
+    },
+    {
+      "id": "lesson-3-2",
+      "title": "Conversational Conjunctions (Because, So, But, Although, Even if)",
+      "src": "/courses/english-communication/lessons/lesson_3_2.md"
+    },
+    {
+      "id": "lesson-3-3",
+      "title": "Transition Words for Speech (However, In fact, Actually, Therefore)",
+      "src": "/courses/english-communication/lessons/lesson_3_3.md"
+    },
+    {
+      "id": "lesson-4-1",
+      "title": "Habit & Past Patterns — \"I used to...\" vs. \"I got used to...\"",
+      "src": "/courses/english-communication/lessons/lesson_4_1.md"
+    },
+    {
+      "id": "lesson-4-2",
+      "title": "Intention Patterns – \"I'm planning to...\", \"I would like to...\", \"I was thinking of...\"",
+      "src": "/courses/english-communication/lessons/lesson_4_2.md"
+    },
+    {
+      "id": "lesson-4-3",
+      "title": "Polite Request Patterns — \"Could you...?\", \"Do you mind if...?\", \"Would it be possible...?\"",
+      "src": "/courses/english-communication/lessons/lesson_4_3.md"
+    },
+    {
+      "id": "lesson-4-4",
+      "title": "Recommendation Patterns – Soft Advice & Hypothetical Guidance",
+      "src": "/courses/english-communication/lessons/lesson_4_4.md"
+    },
+    {
+      "id": "lesson-5-1",
+      "title": "High-Frequency Action Verbs for Daily Life & Work",
+      "src": "/courses/english-communication/lessons/lesson_5_1.md"
+    },
+    {
+      "id": "lesson-5-2",
+      "title": "Essential Phrasal Verbs — Pick up, Look into, Carry out, Turn out, Point out",
+      "src": "/courses/english-communication/lessons/lesson_5_2.md"
+    },
+    {
+      "id": "lesson-5-3",
+      "title": "Common Spoken Collocations (Natural Word Pairs)",
+      "src": "/courses/english-communication/lessons/lesson_5_3.md"
+    },
+    {
+      "id": "lesson-5-4",
+      "title": "Replacing Direct Translations (Fixing Indian-English Literal Translations)",
+      "src": "/courses/english-communication/lessons/lesson_5_4.md"
+    },
+    {
+      "id": "lesson-6-1",
+      "title": "Common Mispronounced Words in Everyday Speech",
+      "src": "/courses/english-communication/lessons/lesson_6_1.md"
+    },
+    {
+      "id": "lesson-6-2",
+      "title": "Silent Letters & Tricky Sounds",
+      "src": "/courses/english-communication/lessons/lesson_6_2.md"
+    },
+    {
+      "id": "lesson-6-3",
+      "title": "Word Stress & Sentence Rhythm: Sounding Natural",
+      "src": "/courses/english-communication/lessons/lesson_6_3.md"
+    },
+    {
+      "id": "lesson-6-4",
+      "title": "Connected Speech – Linking Words Naturally (\"going to\" → \"gonna\", \"want to\" → \"wanna\")",
+      "src": "/courses/english-communication/lessons/lesson_6_4.md"
+    },
+    {
+      "id": "lesson-6-5",
+      "title": "Pacing & Pausing — Controlling Speed Without Filler Words (Uhs, Ums)",
+      "src": "/courses/english-communication/lessons/lesson_6_5.md"
+    },
+    {
+      "id": "lesson-7-1",
+      "title": "Giving Clear Standup Updates & Project Statuses",
+      "src": "/courses/english-communication/lessons/lesson_7_1.md"
+    },
+    {
+      "id": "lesson-7-2",
+      "title": "Asking for Clarification & Doubts Professionally",
+      "src": "/courses/english-communication/lessons/lesson_7_2.md"
+    },
+    {
+      "id": "lesson-7-3",
+      "title": "Expressing Opinions & Polite Disagreement (\"I see your point, but...\")",
+      "src": "/courses/english-communication/lessons/lesson_7_3.md"
+    },
+    {
+      "id": "lesson-7-4",
+      "title": "Conducting Demos & Product Walkthroughs",
+      "src": "/courses/english-communication/lessons/lesson_7_4.md"
+    },
+    {
+      "id": "lesson-8-1",
+      "title": "Explaining Architecture & Data Flow in Plain English",
+      "src": "/courses/english-communication/lessons/lesson_8_1.md"
+    },
+    {
+      "id": "lesson-8-2",
+      "title": "Describing Bugs, Stack Traces, and Root Cause Analysis Out Loud",
+      "src": "/courses/english-communication/lessons/lesson_8_2.md"
+    },
+    {
+      "id": "lesson-8-3",
+      "title": "Explaining APIs, Endpoints, and Logic to Non-Technical Stakeholders",
+      "src": "/courses/english-communication/lessons/lesson_8_3.md"
+    },
+    {
+      "id": "lesson-8-4",
+      "title": "Technical Interview Answers — Structuring Past Project Explanations",
+      "src": "/courses/english-communication/lessons/lesson_8_4.md"
+    },
+    {
+      "id": "lesson-9-1",
+      "title": "The PREP Framework for Structuring Thoughts (Point → Reason → Example → Point)",
+      "src": "/courses/english-communication/lessons/lesson_9_1.md"
+    },
+    {
+      "id": "lesson-9-2",
+      "title": "The STAR Method for Behavioral Explanations",
+      "src": "/courses/english-communication/lessons/lesson_9_2.md"
+    },
+    {
+      "id": "lesson-9-3",
+      "title": "Small Talk, Icebreakers, and Keeping Conversations Going",
+      "src": "/courses/english-communication/lessons/lesson_9_3.md"
+    },
+    {
+      "id": "lesson-9-4",
+      "title": "Impromptu Speaking – Talking On-the-Spot for 1–2 Minutes",
+      "src": "/courses/english-communication/lessons/lesson_9_4.md"
+    },
+    {
+      "id": "lesson-10-1",
+      "title": "Common Conversational Expressions used in Professional Workplaces",
+      "src": "/courses/english-communication/lessons/lesson_10_1.md"
+    },
+    {
+      "id": "lesson-10-2",
+      "title": "Formal vs. Casual Register – Knowing When to Use Which",
+      "src": "/courses/english-communication/lessons/lesson_10_2.md"
+    },
+    {
+      "id": "lesson-10-3",
+      "title": "Handling Awkward Moments, Interruptions, and Misunderstandings",
+      "src": "/courses/english-communication/lessons/lesson_10_3.md"
+    }
+  ]
+}

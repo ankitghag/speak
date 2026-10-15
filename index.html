@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#302638" />
+    <meta name="description" content="A calm, practical place to build confident communication skills." />
+    <title>Speak — Learn at your pace</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to lesson content</a>
+    <header class="topbar">
+      <button class="icon-button mobile-menu-button" id="mobile-menu-button" type="button" aria-label="Toggle course navigation" aria-expanded="false" aria-controls="course-sidebar">☰</button>
+      <a class="brand" href="./" aria-label="Speak home">speak<span>.</span></a>
+      <span class="topbar-divider" aria-hidden="true"></span>
+      <label class="course-picker-label" for="course-picker">Learning</label>
+      <select id="course-picker" class="course-picker" aria-label="Choose a course"></select>
+      <label class="search-box" for="lesson-search">
+        <span aria-hidden="true">⌕</span>
+        <input id="lesson-search" type="search" placeholder="Search lessons" autocomplete="off" />
+        <kbd>/</kbd>
+      </label>
+      <span class="topbar-note">A little practice, a lot more confidence.</span>
+    </header>
+
+    <div class="app-shell">
+      <aside id="course-sidebar" class="sidebar" aria-label="Course navigation">
+        <div id="sidebar-content" class="sidebar-content">
+          <div class="loading-skeleton" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+        </div>
+      </aside>
+      <main id="main-content" class="main-content" tabindex="-1">
+        <div id="view" aria-live="polite" aria-busy="true">
+          <div class="loading-view"><span class="spinner" aria-hidden="true"></span><p>Opening your learning space…</p></div>
+        </div>
+      </main>
+      <aside id="lesson-outline" class="outline" aria-label="On this page"></aside>
+    </div>
+
+    <div id="toast-region" class="toast-region" role="status" aria-live="polite"></div>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "courses": [
+    {
+      "id": "english-communication",
+      "config": "/courses/english-communication/course.json"
+    }
+  ]
+}
